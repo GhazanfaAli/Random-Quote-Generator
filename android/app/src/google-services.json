@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823428649912",
+    "project_id": "random-quote-generator-39f95",
+    "storage_bucket": "random-quote-generator-39f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823428649912:android:a9db521f6f23aa1346754d",
+        "android_client_info": {
+          "package_name": "com.example.random_quote_gen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAaOs5iGmDCNV9d1gcyIqX9pjqf9FMYKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
